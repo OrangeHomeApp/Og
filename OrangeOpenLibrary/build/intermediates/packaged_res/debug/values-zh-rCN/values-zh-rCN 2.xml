@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Account_Number">账号</string>
+    <string name="Account_creation">建立账户</string>
+    <string name="Agree">同意</string>
+    <string name="Are_you_sure_you_want_to_log_out">你确定要退出吗？</string>
+    <string name="Area">地區</string>
+    <string name="AreaLanguage">区域和语言</string>
+    <string name="At_least_8_characters">至少8个字符</string>
+    <string name="Automatic_update">自动更新</string>
+    <string name="Bluetooth_pairing_requirements">蓝牙配对要求</string>
+    <string name="Cancel">取消</string>
+    <string name="Check_for_updates">检查更新</string>
+    <string name="Choose_a_password">输入密码</string>
+    <string name="City">市</string>
+    <string name="Cloud_information">云端数据</string>
+    <string name="Company">公司</string>
+    <string name="Contact_Phone_Number">电话</string>
+    <string name="Country">区域</string>
+    <string name="Create_your_email_account">创建您的账户</string>
+    <string name="Data_Loading">加载信息</string>
+    <string name="Disagree">不同意</string>
+    <string name="Distributor">经销商</string>
+    <string name="Download_MYY_data">加载车辆数据</string>
+    <string name="E_mail">E-mail</string>
+    <string name="First_Name">名字</string>
+    <string name="For_developer_information">关于开发者资讯，请访问网站：www.orange-electronic.com</string>
+    <string name="Forgot_password">忘記密码</string>
+    <string name="Get_location">必须开启定位功能才能启动蓝芽服务.</string>
+    <string name="Go_email">请至您的电子信箱收取信件，
+        找到我们发送的电子邮件，
+        主题为“重设密码”。
+    </string>
+    <string name="ID_COPY">ID COPY</string>
+    <string name="ID_code_should_be_8_characters">ID码需为8个字符</string>
+    <string name="Key_in_the_original_sensor_ID_number">输入原传感器ID号码</string>
+    <string name="Languages">语言</string>
+    <string name="Languages_info">应用程序会使用列表上的第一个有支持的语言
+    </string>
+    <string name="Last_Name">姓</string>
+    <string name="Log_out">注销</string>
+    <string name="MENU">选单</string>
+    <string name="Methods_of_vehicle_data_selection">选择车辆数据方法</string>
+    <string name="My_favorite">我的最愛</string>
+    <string name="Next">下一步</string>
+    <string name="OBDII_relearn">OBDII 学码</string>
+    <string name="Og_email">请输入注册O-Genius所设定的
+        《电子邮件信箱》
+    </string>
+    <string name="Online_shopping">在线购物</string>
+    <string name="Orange_USB_TPMS">Orange USB TPMS</string>
+    <string name="Orange_USB_TPMS_Application">Orange USB TPMS Application</string>
+    <string name="Pair">配對</string>
+    <string name="Password">密码</string>
+    <string name="Personal_details">个人资料</string>
+    <string name="Physical_address_Mailing_address">邮件地址</string>
+    <string name="Please_Confirm_That_The_Sensor_Is_Connect">Please confirm that the sensor is connect</string>
+    <string name="Please_insert_the_sensor_into_the_USB_PAD">將傳感器插入USB PAD</string>
+    <string name="Please_press_RE_PROGRAM">请按重新烧录</string>
+    <string name="Please_remove_the_sensor">请取下传感器</string>
+    <string name="Please_scan_the_QR_Code_on_the_catalog_or_poster">请扫描目录或海报上的二维码
+    </string>
+    <string name="Please_scan_the_correct_QR_code">请扫描正确的二维码</string>
+    <string name="Privacy_Policy">隐私权政策</string>
+    <string name="Product_serial_number">产品序号</string>
+    <string name="Prog_Sensor">Prog.Sensor</string>
+    <string name="Program">Program</string>
+    <string name="ProgramUSB_TPMS">Program (USB TPMS)</string>
+    <string name="Program_USB_PAD">Program(USB PAD)</string>
+    <string name="Program_USB_TPMS">Program(USB TPMS)</string>
+    <string name="Program_sensor">Program sensor</string>
+    <string name="Programming">烧录中</string>
+    <string name="Programming_completed">程序烧录完成</string>
+    <string name="Programming_do_not_move_sensors">烧录中请勿移动传感器</string>
+    <string name="Programming_failed">程序烧录失败</string>
+    <string name="Programming_failed_where">刻录失败(失败的轮位)</string>
+    <string name="ProvideUsbTpmsApp">提供USB TPMS APP\n烧录模式说明</string>
+    <string name="RE_PROGRAM">重新烧录</string>
+    <string name="Registration">注册</string>
+    <string name="Registration_success">注册成功</string>
+    <string name="Relearn_Procedure">学码步骤</string>
+    <string name="Repeat_password">再次输入密码</string>
+    <string name="Reset_Password">重设密码</string>
+    <string name="Retailer">轮胎行</string>
+    <string name="START">开始</string>
+    <string name="Scan_Code">扫描QR码</string>
+    <string name="Select">选择</string>
+    <string name="SelectDevice">选择设备</string>
+    <string name="Select_CAR_Make">选择车型</string>
+    <string name="Select_CAR_Model">选择车款</string>
+    <string name="Select_Year">选择年份</string>
+    <string name="Set_up">确认</string>
+    <string name="Setting">设定</string>
+    <string name="Sign_in">登入</string>
+    <string name="Sound">音效</string>
+    <string name="State">省</string>
+    <string name="Street">街</string>
+    <string name="Submit">发送</string>
+    <string name="Three_ways">三种方式选取车辆资讯</string>
+    <string name="USB_TPMS_APP_will_automatically_install_updates">USB TPMS APP将自动安装更新</string>
+    <string name="Unlinked">未连结</string>
+    <string name="Updating">更新中</string>
+    <string name="Users_manual">使用说明</string>
+    <string name="Vehicle_data_selection">车辆数据选择</string>
+    <string name="Version_update">更新</string>
+    <string name="Welcome">隐私权政策
+        非常欢迎您使用「Orange USB TPMS 应用程序 」，当您开始使用我们的产品，即表示您信赖我们对您个人信息的处理方式。本《隐私权政策》旨在协助您了解我们收集的数据类型、收集这些数据的原因以及这些数据的用途及方法。请您详阅下列内容，若有任何疑问，欢迎与我们连络sales@orange-electronic.com
+        一、隐私权保护政策的适用范围
+        我们的《隐私权政策》适用于本产品的所有服务。我们的《隐私权政策》不适用于由其他公司或个人提供的服务，或我们服务所连结到的其他网站。
+        二、个人资料的收集、处理
+        • 我们提供产品和服务来帮助您更新产品程序数据、和提升产品功能。当您造访本产品或使用本产品所提供之功能服务时，我们将视该服务功能性质，请您提供必要的个人资料、或收集一些信息，并在该特定目的范围内处理及利用您的个人资料，我们使用数据来增进产品和服务及提供更好的支持。我们只会在征得您的同意时，才与本公司以外的其他公司、机构或个人分享个人信息。
+        • 我们收集信息的管道如下:
+        1. 您提供的信息:可能包括但不限于您的姓名、联络信箱、连络电话、产品序号、购买日期、公司名称、主要销售品牌、地址、或地址。在建立用户帐户或注册产品、请求提供产品支持或其他服务、请求提供有关产品的信息、或参与调查等相关情况下可能会要求您提供此类信息。
+        2. 我们经由您使用我们的产品和服务而取得的信息:我们会针对您使用的服务和使用方式收集相关信息，可能包括：
+         装置信息：装置专属信息例如装置ID编号，包括机器ID、IMEI和/或MEID、产品授权和识别号码，以及移动电话号码在内的行动网络信息等。
+         记录信息：当您使用本产品时，我们会自动收集特定信息并储存在服务器纪录中。这类信息包括：因特网通讯协议(IP)地址、用户名称和帐户名称及相关数据、产品系统活动、设定等。
+         位置信息：我们会收集并处理您实际所在位置的相关信息，包括IP地址、GPS/Wi-Fi/通信网路本地信息确定的地理位置等。
+         Cookie和类似技术之使用：Cookie是您在使用我们的产品时，本产品传送给装置的一小段文字，可让我们的产品储存您的使用信息。为了提供您最佳的服务，当您使用我们的产品时，我们会使用各种技术收集并储存信息，这可能包括使用 Cookie 或类似技术来识别您的装置。我们使用Cookie的目的有很多，例如：储存您的偏好语言和其他设定，方便您下次使用我们的产品时套用同样的设定或提供更实用的服务。我们会透过Cookie将特定活动储存在本产品上，您可以终止网络联机来停止本产品所有Cookie，不过，请务必记得，如果您停用Cookie，我们有许多服务可能便无法正常运作，例如可能无法记住您的语言偏好设定。
+        三、个人资料的使用
+        • 本公司会将所收集的信息用于提供、维持、保护与改善服务、开发新的服务，以及保护本公司产品和本公司产品用户。本公司可能会将您的个人资料用于各种目的，包括：
+        1. 响应您的信息要求，并为您提供更有效和高效的客户服务
+        2. 向您提供有关您向本公司购买的产品更新和信息
+        3. 分析，市场调查和报告、管理与改善本公司业务
+        4. 或适用法律允许或要求。
+        5. 本公司也可能使用您的个人信息通过电子邮件与您联系，了解本公司产品，服务，促销活动和特殊活动。
+        四、您的选择权利
+        大家对于隐私权的疑虑各有不同，我们的目标是明列我们所收集的信息，让您了解使用信息的方式，再做选择。例如，您可以：
+        • 删除数据：您可自行清除联机装置的Cookie，或联络我们要求删除帐户相关数据。
+        • 变更或更正数据：您可以透过我们的产品帐户编辑部分个人资料。在部分情况下，特别是资料有误时，您也可以要求我们变更、更新或订正您的数据。
+        • 反对或限制数据使用：您可以要求我们停止使用所有或部分您的个人资料（例如：我们没有持续使用的法定权利）或限制我们使用（例如：如果您的个人资料不正确或是透过非法取得的）。
+        • 读取和／或获得您的数据： 您可以要求我们提供您个人资料的副本。
+        五、个人资料的保护
+        我们致力于保护所持有本公司和用户的相关信息，防止未经授权而遭到存取、窜改、揭露或毁损。尤其是：
+        • 我们会审查收集、储存、处理信息的做法 (包括采取实体安全措施)，保护系统不致发生未经授权的存取。
+        • 我们仅允许为了代表我们处理个人信息而需要知悉该等信息的员工、承包商和代理人存取信息。且相关人员均须遵守严格的契约保密义务，一旦未遵守义务便将受到惩戒或解约处分。
+        • 我们会定期审查本身产品和服务是否遵守《隐私权政策》。我们收到正式的书面申诉后，将与申诉人联络，处理后续事宜。我们会与适当的主管机关 (包括当地的数据保护主管机关) 合作，解决任何有关个人资料移转且无法由我们直接与使用者解决的申诉。
+        六、网站对外的相关连结
+        本产品的网页提供其他网站的网络链接，您也可经由本产品所提供的链接，点选进入其他网站。但该链接网站不适用本产品的隐私权保护政策，您必须参考该连结网站中的隐私权保护政策。
+        七、我们分享的信息
+        除非适用下列任一情况，否则我们不会与本公司以外的其他公司、机构或个人分享用户的个人信息：
+        • 事先征得您的同意 :
+        我们只会在征得您的同意时，才与本公司以外的其他公司、机构或个人分享个人信息。分享任何敏感的个人信息前，我们都会先征求您的同意。
+        • 供外部处理
+        我们会将个人信息提供给我们的关系企业或其他可信赖的公司或人员，请他们根据我们的指示，并遵守本《隐私权政策》和任何其他适当的保密和安全措施，代为处理这类信息。
+        •  基于法律原因
+        如果我们真诚地认为，为了达到下列目的，对个人信息的存取、使用、保存或揭露属合理必要行为时，我们将与 本公司以外的其他公司、机构或个人分享个人信息：
+        1. 符合任何适用法律、法规、法律函状或强制性政府调阅要求的规定。
+        2. 执行适用《服务条款》，包括调查可能的违规情事。
+        3. 侦测、防止或以其他方式处理诈欺、安全或技术问题。
+        4. 依法律规范应在合法范围内，保护本公司、使用者或公众之权利、财产或安全不致遭受危害。
+        我们可能会对外公开并与合作伙伴(例如发布商、广告客户或连结网站)分享不含身分识别内容的信息。举例来说，我们可能会将信息对外公开，让外界了解本公司服务的一般使用趋势。
+        如果本公司涉及合并、收购事宜或出售资产，我们将继续严守任何个人信息之保密，并于个人信息移转或应适用不同隐私权政策前，先行通知受影响的使用者。
+        八、隐私权保护政策之变更
+        我们的《隐私权政策》会不时变更。我们不会在未经您明确同意的情况下，即缩减本《隐私权政策》赋予您的权利。隐私权政策变更时一律会在本产品APP上发布；如果属于重大变更，我们会提供更明显的通知，让您在选择继续使用我们的产品前，有机会审阅修订后的政策。
+
+    </string>
+    <string name="Yes">是</string>
+    <string name="ZP_Code">邮政编码</string>
+    <string name="app_name">TPMS</string>
+    <string name="be_register">装置已被注册</string>
+    <string name="cancel">取消</string>
+    <string name="confirm_password">请确认密码</string>
+    <string name="error">error</string>
+    <string name="errorpass">帐号或密码错误</string>
+    <string name="is_latest">以更新至最新版本</string>
+    <string name="need_upadte">请更新至最新版本</string>
+    <string name="nointer">网路连线逾时</string>
+    <string name="nointernet">网路连线逾时</string>
+    <string name="norelarm">学码流程尚未完成，请耐心等待，我们会尽快更新</string>
+    <string name="paired_with_your_device">配对中</string>
+    <string name="signfall">登入失败</string>
+    <string name="step1_1">步骤1.\n
+        请将USB TPMS烧录线连接手机与传感器
+    </string>
+    <string name="step1_2">步骤2.\n
+        点选Program（USB TPMS）
+    </string>
+    <string name="step1_3">步骤3.\n
+        1.确认烧录线已连线\n
+        2.确认你的烧录模式\n
+        3.选择确认车辆资讯方式</string>
+    <string name="step1_4">步骤4-1.\n
+        按下扫描键后，请扫描目录上您要的车辆资讯的二维码，并跳至步骤6</string>
+    <string name="step1_5">步骤4-2.\n
+        按下车辆资讯键后，依序选择品牌→选择车型→选择年份
+    </string>
+    <string name="step1_6">步骤5.\n
+        确认提示栏车辆资讯正确，并按下“START”进行烧录 </string>
+    <string name="step1_7"> 步骤6.\n
+        烧录完成后，如需续烧录相同资料传感器，请更换下一颗传感器，按下PROG.SENSOR
+    </string>
+    <string name="step1_8">步骤7.\n
+        烧录错误，请按下RE-PROGRAM按键，重新执行烧录
+    </string>
+    <string name="step2_1">步骤1.\n
+        请将USB TPMS烧录线连接手机与传感器
+    </string>
+    <string name="step2_2">步骤2.\n
+        点选Program（USB TPMS）
+    </string>
+    <string name="step2_3">步骤3.\n
+        1.确认烧录线已连线\n
+        2.确认你的烧录模式\n
+        3.选择确认车辆资讯方式</string>
+    <string name="step2_4">步骤4-1.\n
+        按下扫描键后，请扫描目录上您要的车辆资讯的二维码，并跳至步骤6</string>
+    <string name="step2_5">步骤4-2.\n
+        按下车辆资讯键后，依序选择品牌→选择车型→选择年份
+    </string>
+    <string name="step2_6">步骤5.\n
+        选择原发射器ID号码输入方式</string>
+    <string name="step2_7">步骤6.\n
+        1.输入原本传感器ID号码\n
+        2.按下PROGRAM进行烧录
+    </string>
+    <string name="step2_8"> 步骤7.\n
+        烧录完成后，如需继续复制其他传感器，请更换下一颗传感器，按下PROG.SENSOR
+    </string>
+    <string name="step2_9">步骤8.\n
+        烧录错误，请按下RE-PROGRAM按键，重新执行烧录 </string>
+    <string name="step3_1">步骤1.\n
+        请先连接电源线，确认USB PAD是否有过电（底部绿灯亮起），再将预烧录的传感器放入
+    </string>
+    <string name="step3_2">步骤2.\n
+        点选Program(USB PAD)
+    </string>
+    <string name="step3_3">步骤3.\n
+        USB PAD会与您的手机进行蓝芽配对
+        （需确定手机定位功能已开启）
+    </string>
+    <string name="step3_4">步骤4.\n
+        1.确认USB PAD已连线\n
+        2.确认你的烧录模式\n
+        3.选择确认车辆资讯方式 </string>
+    <string name="step3_5">步骤5-1.\n
+        按下扫描键后，请扫描目录上您要的车辆资讯的二维码，并跳至步骤6</string>
+    <string name="step3_6">步骤5-2.\n
+        按下车辆资讯键后，依序选择品牌→选择车型→选择年份
+    </string>
+    <string name="step3_7">步骤6.\n
+        选择车辆资讯后，将自动依序读取PAD中的传感器，读取完成后请按下程序传感器
+    </string>
+    <string name="step3_8">步骤7.\n
+        烧录完成后，如需烧录相同资料的传感器，请更换USB PAD中的传感器，并按下PROG.SENSOR
+    </string>
+    <string name="step3_9">步骤8.\n
+        烧录错误，请按下RE-PROGRAM按键，重新执行烧录
+    </string>
+    <string name="step4_1">步骤1.\n
+        请先连接电源线，确认USB PAD是否有过电（底部绿灯亮起），再将预烧录的传感器放入
+    </string>
+    <string name="step4_10">步骤9.\n
+        烧录完成后，如需复制其他的传感器，请更换USB PAD中的传感器，并按下PROG.SENSOR
+    </string>
+    <string name="step4_11">步骤10.\n
+        烧录错误，请按下RE-PROGRAM按键，重新执行烧录 </string>
+    <string name="step4_2">步骤2.\n
+        点选Program(USB PAD)
+    </string>
+    <string name="step4_3">步骤3.\n
+        USB PAD会与您的手机进行蓝芽配对
+        （需确定手机定位功能已开启）
+    </string>
+    <string name="step4_4">步骤4.\n
+        1.确认USB PAD已连线\n
+        2.确认你的烧录模式\n
+        3.选择确认车辆资讯方式 </string>
+    <string name="step4_5">步骤5-1.\n
+        按下扫描键后，请扫描目录上您要的车辆资讯的二维码，并跳至步骤6</string>
+    <string name="step4_6">步骤5-2.\n
+        按下车辆资讯键后，依序选择品牌→选择车型→选择年份
+    </string>
+    <string name="step4_7">步骤6.\n
+        选择原发射器ID号码输入方式</string>
+    <string name="step4_8">步骤7.\n
+        请依照轮位顺序输入原始传感器 ID, 输入完后请按下一步
+    </string>
+    <string name="step4_9">步骤8.\n
+        USB TPMS 将自动依序读取PAD中的传感器，
+        读取完成后请按下 PROGRAM SENSOR </string>
+    <string name="store_type">商店类型</string>
+    <string name="to_give">应用程序可能会根据您的所在地区为您提供当地内容</string>
+    <string name="update">更新</string>
+    <string name="update_success">更新成功</string>
+    <string name="would_like_to_with_pair">USB PAD将与您手机进行配对</string>
+</resources>

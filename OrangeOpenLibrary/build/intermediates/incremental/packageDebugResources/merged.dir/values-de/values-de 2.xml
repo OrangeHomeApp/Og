@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Account_Number">Account Number</string>
+    <string name="Account_creation">Account creation</string>
+    <string name="Agree">akzeptieren</string>
+    <string name="Are_you_sure_you_want_to_log_out">Are you sure you want to log out ?</string>
+    <string name="Area">Bereich</string>
+    <string name="AreaLanguage">Bereich &amp; Sprachen</string>
+    <string name="At_least_8_characters">At least 8 characters</string>
+    <string name="Automatic_update">Automatische Updates</string>
+    <string name="Bluetooth_pairing_requirements">Bluetooth pairing requirements</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Check_for_updates">Auf Updates prüfen</string>
+    <string name="Choose_a_password">Choose a password</string>
+    <string name="City">City</string>
+    <string name="Cloud_information">Cloud information</string>
+    <string name="Company">Company</string>
+    <string name="Contact_Phone_Number">Contact Phone Number</string>
+    <string name="Country">Country</string>
+    <string name="Create_your_email_account">Create your email account</string>
+    <string name="Data_Loading">Data Loading</string>
+    <string name="Disagree">nicht akzeptieren</string>
+    <string name="Distributor">Händler</string>
+    <string name="Download_MYY_data">Download MYY data</string>
+    <string name="E_mail">E-mail</string>
+    <string name="First_Name">First Name</string>
+    <string name="For_developer_information">Informationen für Entwickler finden Sie auf dieser Website: www.orange-electronic.com </string>
+    <string name="Forgot_password">Passwort vergessen</string>
+    <string name="Get_location">Die Ortungsfunktion muss aktiviert sein,
+        um den Bluetooth-Dienst zu starten.</string>
+    <string name="Go_email">Go to your email inbox and find an email from us with the subject “Reset your password”.</string>
+    <string name="ID_COPY">ID COPY</string>
+    <string name="ID_code_should_be_8_characters">ID code should be 8 characters</string>
+    <string name="Key_in_the_original_sensor_ID_number">Key in the original sensor ID number </string>
+    <string name="Languages">Sprachen</string>
+    <string name="Languages_info">An application will appear in the first language in the list that they support</string>
+    <string name="Last_Name">Last Name</string>
+    <string name="Log_out">Log out</string>
+    <string name="MENU">MENU</string>
+    <string name="Methods_of_vehicle_data_selection">Methods of vehicle data selection</string>
+    <string name="My_favorite">mein Favorit</string>
+    <string name="Next">Nächster</string>
+    <string name="OBDII_relearn">OBDII relearn</string>
+    <string name="Og_email">Please provide the email address that you used when you signed up for O-GENIUS account.</string>
+    <string name="Online_shopping">Online shopping</string>
+    <string name="Orange_USB_TPMS">Orange USB TPMS</string>
+    <string name="Orange_USB_TPMS_Application">Orange USB TPMS Application</string>
+    <string name="Pair">Pair</string>
+    <string name="Password"> Passwort </string>
+    <string name="Personal_details">Personal details</string>
+    <string name="Physical_address_Mailing_address">Physical address / Mailing address</string>
+    <string name="Please_Confirm_That_The_Sensor_Is_Connect">Please confirm that the sensor is connect</string>
+    <string name="Please_insert_the_sensor_into_the_USB_PAD">Please insert the sensor into the USB PAD.</string>
+    <string name="Please_press_RE_PROGRAM">Please press RE-PROGRAM.</string>
+    <string name="Please_remove_the_sensor">Please remove the sensor.</string>
+    <string name="Please_scan_the_QR_Code_on_the_catalog_or_poster">Please scan the QR Code on the catalog or poster.</string>
+    <string name="Please_scan_the_correct_QR_code">Bitte scannen Sie den richtigen QR-Code</string>
+    <string name="Privacy_Policy">Datenschutzbestimmungen</string>
+    <string name="Product_serial_number">Product serial number</string>
+    <string name="Prog_Sensor">Prog.sensor</string>
+    <string name="Program">Program </string>
+    <string name="ProgramUSB_TPMS">Program (USB TPMS)</string>
+    <string name="Program_USB_PAD">Program(USB PAD)</string>
+    <string name="Program_USB_TPMS">Program(USB TPMS)</string>
+    <string name="Program_sensor">Program sensor</string>
+    <string name="Programming">Programmierung</string>
+    <string name="Programming_completed">Programming completed.</string>
+    <string name="Programming_do_not_move_sensors">Programmierung, bitte Sensor nicht bewegen</string>
+    <string name="Programming_failed">Programming failed.</string>
+    <string name="Programming_failed_where">Fehler (Fehler bei Reifenposition)</string>
+    <string name="ProvideUsbTpmsApp">Unterstützt USB RDKS App\nProgrammier-Beschreibung</string>
+    <string name="RE_PROGRAM">RE-PROGRAM</string>
+    <string name="Registration">Registration</string>
+    <string name="Registration_success">Registration success</string>
+    <string name="Relearn_Procedure">Relearn Procedure</string>
+    <string name="Repeat_password">Repeat password</string>
+    <string name="Reset_Password">Passwort zurücksetzen</string>
+    <string name="Retailer">Reifenreihe</string>
+    <string name="START">START</string>
+    <string name="Scan_Code">Scan Code</string>
+    <string name="Select">Wählen</string>
+    <string name="SelectDevice">Wählen Sie Gerät</string>
+    <string name="Select_CAR_Make">Select CAR Make</string>
+    <string name="Select_CAR_Model">Select CAR Model</string>
+    <string name="Select_Year">Select Year</string>
+    <string name="Set_up">Konfiguration</string>
+    <string name="Setting">Setup</string>
+    <string name="Sign_in">eintragen</string>
+    <string name="Sound">Klingen</string>
+    <string name="State">State</string>
+    <string name="Street">Street</string>
+    <string name="Submit">einreichen</string>
+    <string name="Three_ways">Drei Wege um Fahrzeugdaten auszuwählen</string>
+    <string name="USB_TPMS_APP_will_automatically_install_updates">Die USB TPMS APP installiert die Updates automatisch.</string>
+    <string name="Unlinked">Unlinked</string>
+    <string name="Updating">Aktualisierung</string>
+    <string name="Users_manual">User\'s manual</string>
+    <string name="Vehicle_data_selection">Vehicle data selection</string>
+    <string name="Version_update">Aktualisieren</string>
+    <string name="Welcome">Sie sind herzlich eingeladen, die Orange USB TPMS-Anwendung (im Folgenden als diese Anwendung bezeichnet) zu besuchen. Damit Sie die Dienste und Informationen der Anwendung nutzen können, erklären wir Ihnen hiermit die Datenschutzerklärung dieser Anwendung, um Ihre Rechte zu schützen Bitte lesen Sie die folgenden Details:
+
+        ich. Geltungsbereich der Datenschutzerklärung
+        Datenschutzbestimmungen, einschließlich der Art und Weise, wie diese Anwendung mit personenbezogenen Daten umgeht, die erfasst werden, wenn Sie die Dienste der Anwendung nutzen. Die Datenschutzrichtlinie gilt nicht für verlinkte Websites außer der Anwendung oder für diejenigen, die nicht mit der Verwaltung dieser Anwendung beauftragt sind.
+
+        Ii. Erhebung, Verarbeitung und Nutzung personenbezogener Daten
+        Wenn Sie diese Anwendung besuchen oder die auf dieser Anwendung bereitgestellten funktionalen Dienste nutzen, behandeln wir die Art des Dienstes als solche, stellen Ihnen die erforderlichen personenbezogenen Daten zur Verfügung, verarbeiten und verwenden Ihre personenbezogenen Daten innerhalb dieses bestimmten Zwecks und tun dies auch Personenbezogene Daten ohne Ihre schriftliche Zustimmung nicht für andere Zwecke verwenden.
+
+        Diese Anwendung behält Ihren Namen, Ihre E-Mail-Adresse, Ihre Kontaktinformationen und die Nutzungszeit, wenn Sie die interaktiven Funktionen wie Service-Boxen und Umfragen verwenden.
+
+        Beim allgemeinen Browsen zeichnet der Server die relevanten Aktionen auf, einschließlich der Verwendung der IP-Adresse des Online-Geräts, der Zeit, des verwendeten Browsers, des Browsens und der Datensichtaufzeichnungen als Referenz zur Verbesserung der Website Dienste, dieser Datensatz für interne Anwendungen, niemals veröffentlicht.
+
+        Um einen genauen Service zu bieten, werden wir den Inhalt der Fragebogenumfrage für statistische Daten und Analysen, Analyseergebnisse von statistischen Daten oder die Beschreibung des beschreibenden Textes zusammenstellen. Zusätzlich zu internen Untersuchungen werden wir Statistiken und erläuternden Text nach Bedarf veröffentlichen, tun dies jedoch keine spezifischen personenbezogenen Daten enthalten.
+
+
+        Drittens der Schutz von Daten
+        Der Host dieser  Anwendung verfügt über eine Firewall, ein Antiviren-System und andere zugehörige Einrichtungen zur Informationssicherheit sowie die erforderlichen Sicherheitsmaßnahmen, um die Website und Ihre personenbezogenen Daten durch strenge Schutzmaßnahmen zu schützen, und nur durch autorisiertes Personal, um Ihre persönlichen Daten zu kontaktieren. Das betreffende Verarbeitungspersonal ist unterzeichnete Vertraulichkeitsverträge. Bei Verstößen gegen die Geheimhaltungspflichten werden die entsprechenden gesetzlichen Sanktionen verhängt.
+
+        Wenn es für das Unternehmen erforderlich ist, andere Einheiten mit der Erbringung von Dienstleistungen zu beauftragen, wird diese Website auch streng ihre Vertraulichkeitsverpflichtungen einhalten und die erforderlichen Überprüfungsverfahren einhalten, um festzustellen, dass sie tatsächlich die Anforderungen erfüllen.
+
+        Iv. RELATED-Links zu externen Websites
+        Die Webseiten dieser Anwendung enthalten Links zu anderen Websites. Sie können auch auf die Links auf dieser Anwendung klicken, um auf andere Websites zuzugreifen. Die verlinkte Seite gilt jedoch nicht für die Datenschutzrichtlinie dieser Anwendung, und Sie müssen sich auf die Datenschutzerklärung der verlinkten Website beziehen.
+
+        V. Die Politik der Weitergabe personenbezogener Daten an Dritte
+        Diese Website wird niemals Ihre personenbezogenen Daten an andere Personen, Gruppen, private Unternehmen oder öffentliche Stellen vermitteln, austauschen, vermieten oder verkaufen, jedoch mit rechtlichen Grundlagen oder vertraglichen Verpflichtungen.
+
+        Im Falle des vorangehenden Absatzes umfasst das Buch nicht nur:
+
+        durch Ihre schriftliche Zustimmung.
+        Das Gesetz schreibt ausdrücklich vor.
+        Um Sie von jeder Gefahr für Leben, Körper, Freiheit oder Eigentum zu befreien.
+        In Zusammenarbeit mit Behörden oder akademischen Forschungseinrichtungen muss statistische oder akademische Forschung auf dem gemeinsamen Interesse basieren, und die Daten werden vom Anbieter so verarbeitet oder erhoben, dass keine bestimmte Partei von ihm identifiziert wird seine Offenlegung.
+        Wenn Sie auf der Anwendung handeln, gegen die Servicebedingungen verstoßen oder die Rechte der Anwendung und anderer Benutzer verletzen oder Personen schaden können, analysiert die Anwendung-Verwaltungseinheit die Offenlegung Ihrer persönlichen Daten zu diesem Zweck erforderlichenfalls zu identifizieren, Kontakt aufzunehmen oder rechtliche Schritte einzuleiten.
+        Nutzen Sie Ihre Interessen.
+        Wenn die Anwendung von einem Hersteller mit der Erhebung, Verarbeitung oder Nutzung Ihrer personenbezogenen Daten beauftragt wird, ist er für die Überwachung und Verwaltung des Outsourcing-Herstellers oder der Einzelperson verantwortlich.
+        Vi. Verwendung von Cookies
+        Um Ihnen den bestmöglichen Service zu bieten, werden auf dieser Anwendung Cookies platziert und auf diese Cookies zugegriffen. Wenn Sie keine Cookies akzeptieren möchten, können Sie es ablehnen, Cookies zu schreiben, indem Sie ein hohes Datenschutzniveau festlegen die von Ihnen verwendeten Browserfunktionen, kann jedoch dazu führen, dass bestimmte Funktionen der Anwendung nicht ordnungsgemäß funktionieren.
+
+        Vii. Änderungen der Datenschutzrichtlinie
+        Die Datenschutzbestimmungen dieser Anwendung werden zu jeder Zeit als Reaktion auf die Nachfrage geändert und die geänderten Bedingungen werden auf der Website veröffentlicht.
+
+    </string>
+    <string name="Yes">Yes</string>
+    <string name="ZP_Code">ZP_Code</string>
+    <string name="app_name">TPMS</string>
+    <string name="be_register">Gerät wurde registriert</string>
+    <string name="cancel">cancel</string>
+    <string name="confirm_password">Bitte bestätigen Sie das Passwort</string>
+    <string name="error">error</string>
+    <string name="errorpass">Zeitüberschreitung der Internetverbindung</string>
+    <string name="is_latest">Um auf die neueste Version zu aktualisieren</string>
+    <string name="need_upadte">Bitte aktualisieren Sie auf die neueste Version</string>
+    <string name="nointer">Zeitüberschreitung der Internetverbindung</string>
+    <string name="nointernet">Zeitüberschreitung der Internetverbindung </string>
+    <string name="norelarm">Im Bau</string>
+    <string name="paired_with_your_device">mit Ihrem Gerät gepaart</string>
+    <string name="signfall">Anmeldung fehlgeschlagen</string>
+    <string name="step1_1">Schritt 1.\nBitte verbinden sie das USB RDKS Progammierkabel mit dem Mobiltelefon und dem Sensor
+    </string>
+    <string name="step1_2">Schritt 2.\nKlicken sie programmieren (USB RDKS)
+    </string>
+    <string name="step1_3">Schritt 3.\n
+        1. bestätigen sie, das das Programmierkabel angeschlossen ist\n
+        2. Bestätigen sie den Programmier-Modus\n
+        3. Wählen sie um die Fahrzeug-Informations-Methode zu bestätigen</string>
+    <string name="step1_4">Schritt 4-1.\ndrücken sie den Scan-Knopf, scannen sie den QR Code der Fahrzeug-Information, die sie benötigen aus dem Katalog und gehen sie zu Schritt 6</string>
+    <string name="step1_5">Schritt 4-2.\ndrücken sie den Fahrzeug-Information-Knopf, wählen sie machen  - Modell - Jahr
+    </string>
+    <string name="step1_6">Schritt 5.\nBestätigen sie, dass die Fahrzeug-Informationin der Eingabeleiste richtig ist und drücken sie "Start" um zu programmieren</string>
+    <string name="step1_7">Schritt 6.\nNachdem die Programmierung vollständig ist und sie mit dem programmieren eines identischen Sensors fortfahren wollen, tauschen sie den Sensor aus und drücken PROG.Sensor
+    </string>
+    <string name="step1_8">Schritt 7.\nBei Programmier-Fehler drücken sie den RE-PROGRAM Knopf um das Programm erneut auszuführen
+    </string>
+    <string name="step2_1">Schritt 1.\nBitte verbinden sie das USB RDKS Progammierkabel mit dem Mobiltelefon und dem Sensor
+    </string>
+    <string name="step2_2">Schritt 2.\nKlicken sie programmieren (USB RDKS)
+    </string>
+    <string name="step2_3">Schritt 3.\n1. bestätigen sie, das das Programmierkabel angeschlossen ist\n2. Bestätigen sie den Programmier-Modus\n3. Wählen sie um die Fahrzeug-Informations-Methode zu bestätigen</string>
+    <string name="step2_4">Schritt 4-1.\ndrücken sie den Scan-Knopf, scannen sie den QR Code der Fahrzeug-Information, die sie benötigen aus dem Katalog und gehen sie zu Schritt 6</string>
+    <string name="step2_5">Schritt 4-2.\ndrücken sie den Fahrzeug-Information-Knopf, wählen sie machen  - Modell - Jahr
+    </string>
+    <string name="step2_6">Schritt 5.\nWählen sie die Original Sensor ID Methode aus</string>
+    <string name="step2_7">Schritt 6.\n
+        1. Geben sie die Original-ID-Nummer ein\n
+        2. Drücken sie "PROGRAM" um mit dem Programm fortzufahren
+    </string>
+    <string name="step2_8">Schritt 7.\nNachdem die Programmierung vollständig ist und sie mit dem programmieren eines identischen Sensors fortfahren wollen, tauschen sie den Sensor aus und drücken PROG.Sensor
+    </string>
+    <string name="step2_9">Schritt 8.\nBei Programmier-Fehler drücken sie den RE-PROGRAM Knopf um das Programm erneut auszuführen</string>
+    <string name="step3_1">Schritt 1.\nBitte schliessen sie das Stromkabel zuerst an, prüfen sie, dass das USB-PAD genug Strom hat (das grüne Licht am Boden leuchtet) dann stekcen sie die Sensoren ein
+    </string>
+    <string name="step3_2">Schritt 2.\nKlicken sie Program (USB PAD)
+    </string>
+    <string name="step3_3">Schritt 3.\nUSB PAD verbindet sich mit ihrem Mobiltelefon über bluetooth (bitte prüfen sie, dass bei ihrem Mobiltelefon die Funktion aktiviert ist)
+    </string>
+    <string name="step3_4">Schritt 4.\n
+        1. Prüfen sie, dass das USB Pad angeschlossen ist\n
+        2. Prüfen sie den Programmier-Modus\n
+        3. Wählen sie die Fahrzeug-Informations-Methode</string>
+    <string name="step3_5">Schritt 5-1.\ndrücken sie den Scan-Knopf, scannen sie den QR Code der Fahrzeug-Information, die sie benötigen aus dem Katalog und gehen sie zu Schritt 6</string>
+    <string name="step3_6">Schritt 5-2.\ndrücken sie den Fahrzeug-Information-Knopf, wählen sie machen    -   Modell   -   Jahr
+    </string>
+    <string name="step3_7">Schritt 6.\nNach der Auswahl der Fahrzeug-Information wird der Sensor im PAD automatisch die Sequenz lesen. Nachdem das Lesen beendet ist drücken sie bitte PROGRAM SENSOR
+    </string>
+    <string name="step3_8">Schritt 7. \n Nachdem die Programmierung vollständig ist und sie mit dem programmieren eines identischen Sensors fortfahren wollen, tauschen sie den Sensor im USB PAD aus und drücken PROG.Sensor
+    </string>
+    <string name="step3_9">Schritt 8.\nBei Programmier-Fehler drücken sie den RE-PROGRAM Knopf um das Programm erneut auszuführen
+    </string>
+    <string name="step4_1">Schritt 1.\nBitte schliessen sie das Stromkabel zuerst an, prüfen sie, dass das USB-PAD genug Strom hat (das grüne Licht am Boden leuchtet) dann stekcen sie die Sensoren ein
+    </string>
+    <string name="step4_10">Schritt 7.\nNachdem die Programmierung vollständig ist und sie mit dem programmieren eines identischen Sensors fortfahren wollen, tauschen sie den Sensor im USB PAD aus und drücken PROG.Sensor
+    </string>
+    <string name="step4_11">Schritt 10.\nBei Programmier-Fehler drücken sie den RE-PROGRAM Knopf um das Programm erneut auszuführen</string>
+    <string name="step4_2">Schritt 2.\nKlicken sie Program (USB PAD)
+    </string>
+    <string name="step4_3">Schritt 3.\nUSB PAD verbindet sich mit ihrem Mobiltelefon über bluetooth (bitte prüfen sie, dass bei ihrem Mobiltelefon die Funktion aktiviert ist)
+    </string>
+    <string name="step4_4">Schritt 4.\n
+        1. Prüfen sie, dass das USB Pad angeschlossen ist\n
+        2. Prüfen sie den Programmier-Modus\n
+        3. Wählen sie die Fahrzeug-Informations-Methode</string>
+    <string name="step4_5">Schritt 5-1.\ndrücken sie den Scan-Knopf, scannen sie den QR Code der Fahrzeug-Information, die sie benötigen aus dem Katalog und gehen sie zu Schritt 6</string>
+    <string name="step4_6">Schritt 5-2.\ndrücken sie den Fahrzeug-Information-Knopf, wählen sie machen    -   Modell   -   Jahr
+    </string>
+    <string name="step4_7">Schritt 6.\nWählen sie die Original Sensor ID Methode aus</string>
+    <string name="step4_8">Schritt 7.\nBitte stecken sie die Original-Sensoren nach der Reihenfolge der Räder ein. Danach drücken sie bitte den nächsten Schritt
+    </string>
+    <string name="step4_9">Schritt 8. \nDas USB RDKS wird automatisch die Sequenz der Sensoren lesen. Nachdem das Lesen beendet ist, drücken sie bitte PROGRAM SENSOR</string>
+    <string name="store_type">Speichertyp</string>
+    <string name="to_give">The application might use your area to give you local content</string>
+    <string name="update">Updates</string>
+    <string name="update_success">Erfolgreich aktualisiert</string>
+    <string name="would_like_to_with_pair">" USB PDA " would like to with pair your smartphone.</string>
+</resources>
